@@ -1,3 +1,7 @@
+Thanks for [JavaScript-Mastery](https://www.youtube.com/@javascriptmastery) for this course.
+
+Here is the link to the course: https://www.youtube.com/watch?v=O5cmLDVTgAs&t=7372s
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
